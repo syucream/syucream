@@ -1,6 +1,6 @@
 # syucream
 
-My account name is originated from `cream puff`, `shucream` but now it's meaningless.
+My account name is originated from `cream puff`, `shucream` but now it's meaningless :sob:. I'm a software engineer living in Japan, and have specialized big-data domain in recent few years.
 
 # My career
 
