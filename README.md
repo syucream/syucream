@@ -19,3 +19,15 @@ See https://github.com/syucream?tab=repositories
 ## My open contribututions
 
 See https://github.com/syucream/syucream/blob/master/contributions.md
+
+## My presentations
+
+See https://speakerdeck.com/syucream
+
+## My technical articles
+
+- https://www.amazon.co.jp/dp/B06XZ9LXSB
+- https://www.amazon.co.jp/dp/B07CGR6N5R
+- https://www.amazon.co.jp/dp/B07HYC1HLN
+- https://www.amazon.co.jp/dp/B07QGR4WVR
+- https://techbookfest.org/product/5044688602005504?productVariantID=6722524354183168
