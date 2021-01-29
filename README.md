@@ -23,7 +23,8 @@ See https://github.com/syucream/syucream/blob/master/contributions.md
 
 ## My presentations
 
-See https://speakerdeck.com/syucream
+- https://www.slideshare.net/syu_cream
+- https://speakerdeck.com/syucream
 
 ## My technical articles
 
