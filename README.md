@@ -5,8 +5,9 @@ My account name is originated from `cream puff`, `shucream` but now it's meaning
 # My career
 
 - Apr 2013 - Aug 2017: A full-time job as a software engineer. [Yahoo! JAPAN](https://about.yahoo.co.jp/)
-- Aug 2017 - now: A full-time job as a software engineer. [Mercari, Inc.](https://about.mercari.com/)
-- ??? - Mar 2018: A part-time job as a software engineer(fullstack) at a small company.
+- Aug 2017 - Jun 2021: A full-time job as a software engineer. [Mercari, Inc.](https://about.mercari.com/)
+- Jul 2021 - Now: A full-time job as a software engineer. [Ubie, Inc.](https://ubie.life/)
+- Jan 2018 - Jun 2018: A part-time job as a software engineer(fullstack) at a small company.
 - Apr 2018 - Aug 2020: A part-time job as a software engineer at [Repro Inc.](https://repro.io/company/about/)
 
 # Skills
