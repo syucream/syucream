@@ -2,6 +2,11 @@
 
 My account name is originated from `cream puff`, `shucream` but now it's meaningless :sob:. I'm a software engineer living in Japan, and have specialized big-data domain in recent few years.
 
+[![syucream's GitHub stats](https://github-readme-stats.vercel.app/api?username=syucream&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syucream)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # My career
 
 - Apr 2013 - Aug 2017: A full-time job as a software engineer. [Yahoo! JAPAN](https://about.yahoo.co.jp/)
