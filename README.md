@@ -12,6 +12,7 @@ My account name is originated from `cream puff`, `shucream` but now it's meaning
 - Jul 2021 - Now: A full-time job as a software engineer. [Ubie, Inc.](https://ubie.life/)
 - Jan 2018 - Jun 2018: A part-time job as a software engineer(fullstack) at a small company.
 - Apr 2018 - Aug 2020: A part-time job as a software engineer at [Repro Inc.](https://repro.io/company/about/)
+- Feb 2021 - Now: A part-time job as a software engineer at [DMM.com](https://dmm-corp.com/)
 
 # Skills
 
